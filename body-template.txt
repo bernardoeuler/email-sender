@@ -1,0 +1,12 @@
+Dear %RECIPIENT%,
+
+I hope this email finds you well.
+
+In preparation for my college application to %UNIVERSITY%, I am planning to take the Duolingo English Test to fulfill the English proficiency requirement. Due to my low-income financial background, I am exploring the possibility of gaining a fee waiver for this test.
+
+I wanted to inquire if %UNIVERSITY% offers fee waivers for the Duolingo English Test to prospective international students and, if so, whether there is a specific process I need to follow to gain the waiver. Any guidance or further information you can provide would be greatly appreciated.
+
+Thank you for your assistance.
+
+Sincerely,
+%NAME%
