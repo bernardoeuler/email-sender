@@ -15,7 +15,7 @@ Currently, the program is only supporting Gmail as the SMTP server, so in order 
 ### User data
 In order to send the email, the program need some data of the user. It inputs the user in the command line for their name, email, and the subject of the message. Additionally, a **Google app password** is needed to authenticate the app to the Gmail SMTP server. This password goes to the `.env` file in the variable `GOOGLE_PASSWORD`.
 
-These app passwords are a way to sign into your Google account on older apps and services that don’t support modern security standards. They can be generated [here](https://myaccount.google.com/apppasswords).
+These app passwords are a way to sign into your Google account on older apps and services that don’t support modern security standards. They can be generated [here](https://myaccount.google.com/apppasswords) and you must have two-factor authentication active to be able to use it.
 
 ### Email message template
 The message text is located in a file, named `body-template.txt`. The main program reads the text inside it, and replace the placeholders (words in uppercase surrounded by "%") by the desired words.
